@@ -1,5 +1,3 @@
-# ycn.club
-
 ![Brand Cover Image](/assets/cover-image.png)
 
 ## Table of Contents
@@ -14,3 +12,4 @@
 		- [Tier 2]()
 		- [Tier 3]()
 	- [HelpDesk System]()
+
