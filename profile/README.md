@@ -7,11 +7,15 @@
 - [Our Current Status (Legally Speaking)](#our-current-status-legally-speaking)
 - [Our Projects](#our-projects)
 	- [Noticeboard & Logistics](#noticeboard--logistics)
+		- [Mobile Apps](#mobile-apps)
+		- [API](#api)
 	- [Website Templates](#website-templates)
 		- [Tier 1](#tier-1)
 		- [Tier 2](#tier-2)
 		- [Tier 3](#tier-3)
 	- [HelpDesk System](#helpdesk-system)
+		- [Website](#website)
+		- [API](#api-1)
 
 ## Who We Are
 
@@ -57,12 +61,53 @@ We welcome you to YCN.club - an ecosystem built for students, by students. If yo
 
 ### Noticeboard & Logistics
 
+#### Mobile Apps
+
+- **Repositories:** https://github.com/YCN-club/noticeboard and https://github.com/YCN-club/logistics
+- **Contributors:**
+	- Abhigyan Tripathi [(GitHub)](https://github.com/abhigyantrips) [(LinkedIn)](https://linkedin.com/in/abhigyantrips)
+
+#### API
+
+- **Repository:** https://github.com/YCN-club/api
+- **Contributors:**
+	- Raghav Gupta [(GitHub)](https://github.com/Alphaspiderman) [(LinkedIn)](https://linkedin.com/in/raghav-gupta-ind)
+	- Hari Keshav Rajesh [(GitHub)](https://github.com/Hari-Keshav-Rajesh) [(LinkedIn)](https://www.linkedin.com/in/hari-keshav-rajesh-b25945300/)
+	- Kshitij Srivastava [(GitHub)](https://github.com/k-srivastava) [(LinkedIn)](https://www.linkedin.com/in/kshitij-srivastava-954a00250/)
+
 ### Website Templates
 
 #### Tier 1
 
+- **Repository:** https://github.com/YCN-club/redirect
+- **Contributors:**
+	- Abhigyan Tripathi [(GitHub)](https://github.com/abhigyantrips) [(LinkedIn)](https://linkedin.com/in/abhigyantrips)
+
 #### Tier 2
+
+- **Repository:** https://github.com/YCN-club/linkedlist
+- **Contributors:**
+	- Abhigyan Tripathi [(GitHub)](https://github.com/abhigyantrips) [(LinkedIn)](https://linkedin.com/in/abhigyantrips)
 
 #### Tier 3
 
+- **Repository:** https://github.com/YCN-club/template
+- **Contributors:**
+	- Abhigyan Tripathi [(GitHub)](https://github.com/abhigyantrips) [(LinkedIn)](https://linkedin.com/in/abhigyantrips)
+	- Hari Keshav Rajesh [(GitHub)](https://github.com/Hari-Keshav-Rajesh) [(LinkedIn)](https://www.linkedin.com/in/hari-keshav-rajesh-b25945300/)
+
 ### HelpDesk System
+
+#### Website
+
+- **Repository:** https://github.com/YCN-club/helpdesk-website
+- **Contributors:**
+	- Abhigyan Tripathi [(GitHub)](https://github.com/abhigyantrips) [(LinkedIn)](https://linkedin.com/in/abhigyantrips)
+	- Satyajitsinh Digvijaysinh Jhala [(GitHub)](https://github.com/SatyajitsinhJhala) [(LinkedIn)](https://www.linkedin.com/in/satyajitsinh-jhala-634057257/)
+
+#### API
+
+- **Repository:** https://github.com/YCN-club/helpdesk-api
+- **Contributors:**
+	- Raghav Gupta [(GitHub)](https://github.com/Alphaspiderman) [(LinkedIn)](https://linkedin.com/in/raghav-gupta-ind)
+	- Aashi Aggarwal [(GitHub)](https://github.com/aashi-afk) [(LinkedIn)](https://www.linkedin.com/in/aashi-aggarwal-aa5a57286/)
